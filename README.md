@@ -15,3 +15,5 @@
 Реализовать фильтрацию и сортировку списка проектов по различным критериям.
 
 Адрес репозитория: https://github.com/Moscow89er/drag-and-drop-typescript/
+
+Ссылка на проект в Git Hub Pages: https://moscow89er.github.io/drag-and-drop-typescript/
