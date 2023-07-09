@@ -113,11 +113,11 @@ button:active {
 }
   
 .droppable {
-    background: #ffe3ee;
+    background: #d6e1ff;
 }
   
 #finished-projects .droppable {
-    background: #d6e1ff;
+    background: #d6ffdd;
 }
   
 #user-input {
